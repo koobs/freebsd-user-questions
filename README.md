@@ -2,6 +2,12 @@
 
 ## General Questions
 
+### Community
+
+### Processes
+
+### Contributing
+
 ## Port Maintenance
 
 ## Issue Tracking
