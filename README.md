@@ -1,2 +1,7 @@
-# freebsd-user-questions
-FreeBSD Community and User Questions
+# FreeBSD Community and User Questions
+
+## General Questions
+
+## Port Maintenance
+
+## Issue Tracking
