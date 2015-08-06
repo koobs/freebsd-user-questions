@@ -1,16 +1,20 @@
 # FreeBSD Community and User Questions
 
-## General Questions
+## General
 
-### Community
+## Community
 
-### Processes
+## Processes
 
-### Contributing
+## Contributing
 
-## Port Maintenance
+### General
+
+### Port Maintenance
 
 ## Issue Tracking
+
+### General
 
 ### Workflow
 
