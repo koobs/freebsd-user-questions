@@ -1,6 +1,10 @@
 # FreeBSD Community and User Questions
 
-This is a list of user-generated questions on particular topics (please create a PR to add yours!) that will be used/referenced to create documentation either in the Wiki, Handbook or elsewhere that isn't currently covered, or covered adequately. 
+This is a list of user-generated questions on particular topics that will be used/referenced to create documentation either in the Wiki, Handbook or elsewhere that isn't currently covered, or covered adequately. 
+
+* Edit (fork) this file (README.md)
+* Add your question(s) to the most relevent section
+* Create a Pull Request
 
 We're particularly interested in questions from users that relate to aspects of the project that involve non-committers.
 
