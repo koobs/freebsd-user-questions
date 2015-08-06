@@ -1,15 +1,14 @@
 # FreeBSD Community and User Questions
 
-This is a list of user-generated questions on particular topics that will be used/referenced to create documentation either in the Wiki, Handbook or elsewhere that isn't currently covered, or covered adequately. 
+If you've ever had questions or were confused or unclear about the inner workings of the FreeBSD Project, its people, teams, conventions, "rules", or processes, this is an opportunity for you to ask them.
+
+This list (once a sufficient number of questions have been added by you) will be used to create documentation in the Wiki, Handbook or elsewhere that covers these areas.
 
 * Edit (fork) this file (README.md)
 * Add your question(s) to the most relevent section
 * Create a Pull Request
 
-We're particularly interested in questions from users that relate to aspects of the project that involve non-committers.
-
 Please feel free to propose a new section or category if the existing ones do not suffice, eg: "Conferences".
-
 
 ## General
 
@@ -27,9 +26,9 @@ Please feel free to propose a new section or category if the existing ones do no
 
 ### General
 
-* Q: What's the difference between maintainer-feedback and maintainer-approval?
+* Q: What is the difference between maintainer-feedback and maintainer-approval?
 * Q: When is an Issue considered "ready" to be worked on?
-* Q: Why do I need  (or am I being asked) to provide QA results for my changes?
+* Q: Why do I need (or am I being asked) to provide QA results for my changes?
 
 ### Workflow
 
