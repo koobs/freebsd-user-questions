@@ -29,6 +29,7 @@ Please feel free to propose a new section or category if the existing ones do no
 * Q: What is the difference between maintainer-feedback and maintainer-approval?
 * Q: When is an Issue considered "ready" to be worked on?
 * Q: Why do I need (or am I being asked) to provide QA results for my changes?
+* Q: What is the meaning of the term `exp-run` appearing bugzilla?
 
 ### Workflow
 
