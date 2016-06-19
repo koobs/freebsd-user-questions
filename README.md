@@ -33,6 +33,8 @@ Please feel free to propose a new section or category if the existing ones do no
 
 An `exp-run` is an "**exp**erimental **run**" of a single change/patch, on the entire ports tree (to build packages), or on FreeBSD itself for all supported architectures. They are used to identify regressions in potentially high-impact changes, or for changes that can affect many ports or architectures.
 
+In the context of Bugzilla, it means an `exp-run` has been requested or might be needed (?), has been run and passed (+), or has been run and failed (-)
+
 ### Workflow
 
 ### Triage
