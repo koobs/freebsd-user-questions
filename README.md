@@ -31,6 +31,8 @@ Please feel free to propose a new section or category if the existing ones do no
 * Q: Why do I need (or am I being asked) to provide QA results for my changes?
 * Q: What is the meaning of the term `exp-run` appearing bugzilla?
 
+An `exp-run` is an "**exp**erimental **run**" of a single change/patch, on the entire ports tree (to build packages), or on FreeBSD itself for all supported architectures. They are used to identify regressions in potentially high-impact changes, or for changes that can affect many ports or architectures.
+
 ### Workflow
 
 ### Triage
